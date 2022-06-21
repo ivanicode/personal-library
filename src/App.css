@@ -1,0 +1,9 @@
+.App {
+  background-image: url("./pictures/gradient.png");
+  background-size:cover;
+}
+
+.appContent {
+  padding: 10px 25% 10px 25%;
+}
+
